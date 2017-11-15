@@ -4,7 +4,6 @@
 
 __authors__ = 'hexi'
 
-
 from Tkinter import *
 import tkMessageBox
 import ttk
