@@ -1,0 +1,11 @@
+# pycharm files
+.idea/
+
+# virtualenv
+env/
+Env/
+ENV/
+
+#log files
+*.log
+test/*.log
